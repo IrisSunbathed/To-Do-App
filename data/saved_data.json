@@ -1,0 +1,35 @@
+{
+    "task_lists": [
+        {
+            "name": "Programaci\u00f3n",
+            "Tasks": [
+                {
+                    "name": "Python",
+                    "status": "COMPLETADA"
+                },
+                {
+                    "name": "Unity",
+                    "status": "PENDIENTE"
+                }
+            ]
+        },
+        {
+            "name": "Limpieza",
+            "Tasks": [
+                {
+                    "name": "Cuarto",
+                    "status": "PENDIENTE"
+                }
+            ]
+        },
+        {
+            "name": "Violeta",
+            "Tasks": [
+                {
+                    "name": "Chuparsela",
+                    "status": "PENDIENTE"
+                }
+            ]
+        }
+    ]
+}
